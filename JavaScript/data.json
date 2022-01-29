@@ -1,0 +1,21 @@
+{
+"profile":[{
+    "img":"cd1.jpg",
+    "name":"CIET",
+    "Branch":"IT",
+    "Year":"2nd"
+    
+},
+{
+    "img":"cd2.jpg",
+    "name":"CIET",
+    "Branch":"IT",
+    "Year":"2nd"
+},
+{
+    "img":"cd3.jpg",
+    "name":"APSSDC",
+    "Branch":"CSIT",
+    "Year":"6 year"
+}]
+}
